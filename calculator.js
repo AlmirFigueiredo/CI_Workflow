@@ -3,7 +3,7 @@ function somar(a, b) {
 }
 
 function subtrair(a, b) {
-    return a -b;
+    return a - b;
 }
 
 if(module.exports != 'undefined' && module.exports) {

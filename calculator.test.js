@@ -1,4 +1,4 @@
-const {somar, subtrair} = require('./index');
+const {somar, subtrair} = require('./calculator');
 
 //Testes de Soma
 test('soma 10 + 5 igual a 15', () => {
